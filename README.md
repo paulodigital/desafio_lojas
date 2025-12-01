@@ -1,8 +1,3 @@
-# desafio_lojas
-Challenge para analise de lojas
-
-<div align="center">
-
 # 🧾 Análise de Desempenho das Lojas do Senhor João  
 
 📊 *Projeto de Análise Exploratória de Dados (EDA) com Python*  
